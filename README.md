@@ -4,7 +4,7 @@
 # 2- create table name task
 <pre>
   CREATE TABLE `task` (
-  `id` int(10) UNSIGNED NOT NULL,
+  `id` int(10) UNSIGNED PRIMARY KEY AUTOINCIMENT,
   `task` varchar(255) NOT NULL
 )
 </pre>
