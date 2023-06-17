@@ -1,4 +1,4 @@
-<h1 stle="color:red">Todolist-Using-PHP</h1>
+#Todolist-Using-PHP
 ## steps 
 # 1- create database name='todo'
 # 2- create table name task
