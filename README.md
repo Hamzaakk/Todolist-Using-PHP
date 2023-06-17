@@ -8,4 +8,4 @@
   `task` varchar(255) NOT NULL
 )
 </pre>
-# 4 - Now open projectr in browser
+# 3 - Now open projectr in browser
